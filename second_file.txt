@@ -1,1 +1,2 @@
 Hello world!
+This content is going to be a new feature!
