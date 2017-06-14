@@ -1,2 +1,5 @@
 Hello world!
 This content is going to be a new feature!
+
+
+Aaaand the second change in this file has been made in order to make the feature.
