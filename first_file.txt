@@ -3,4 +3,4 @@ First modification has been made!
 Second modification has been made directly on the server!
 Third modification has been made.
 
-Commit from master.
+The decision in between has been found.
