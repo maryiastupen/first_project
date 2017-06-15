@@ -2,3 +2,5 @@ Some content:
 First modification has been made!
 Second modification has been made directly on the server!
 Third modification has been made.
+
+commit from develop.
